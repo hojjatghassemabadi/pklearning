@@ -1,0 +1,7 @@
+H:\AngularLearning\Learning\Learning.WebApi\obj\Debug\net6.0\Learning.WebApi.csproj.AssemblyReference.cache
+H:\AngularLearning\Learning\Learning.WebApi\obj\Debug\net6.0\Learning.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\AngularLearning\Learning\Learning.WebApi\obj\Debug\net6.0\Learning.WebApi.AssemblyInfoInputs.cache
+H:\AngularLearning\Learning\Learning.WebApi\obj\Debug\net6.0\Learning.WebApi.AssemblyInfo.cs
+H:\AngularLearning\Learning\Learning.WebApi\obj\Debug\net6.0\Learning.WebApi.csproj.CoreCompileInputs.cache
+H:\AngularLearning\Learning\Learning.WebApi\obj\Debug\net6.0\Learning.WebApi.MvcApplicationPartsAssemblyInfo.cs
+H:\AngularLearning\Learning\Learning.WebApi\obj\Debug\net6.0\Learning.WebApi.MvcApplicationPartsAssemblyInfo.cache

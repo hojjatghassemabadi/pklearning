@@ -1,0 +1,407 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\AngularLearning\\Learning\\Learning.Infrastructure.Core\\Learning.Infrastructure.Core.csproj": {}
+  },
+  "projects": {
+    "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj",
+        "projectName": "Learning.Application.Contracts",
+        "projectPath": "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Pardaz PC\\.nuget\\packages\\",
+        "outputPath": "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pardaz PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\AngularLearning\\Learning\\Learning.Application\\Learning.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\AngularLearning\\Learning\\Learning.Application\\Learning.Application.csproj",
+        "projectName": "Learning.Application",
+        "projectPath": "H:\\AngularLearning\\Learning\\Learning.Application\\Learning.Application.csproj",
+        "packagesPath": "C:\\Users\\Pardaz PC\\.nuget\\packages\\",
+        "outputPath": "H:\\AngularLearning\\Learning\\Learning.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pardaz PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj"
+              },
+              "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj"
+              },
+              "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj",
+        "projectName": "Learning.Domain",
+        "projectPath": "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pardaz PC\\.nuget\\packages\\",
+        "outputPath": "H:\\AngularLearning\\Learning\\Learning.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pardaz PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj"
+              },
+              "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\AngularLearning\\Learning\\Learning.EFCore\\Learning.Infrastructure.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\AngularLearning\\Learning\\Learning.EFCore\\Learning.Infrastructure.EFCore.csproj",
+        "projectName": "Learning.Infrastructure.EFCore",
+        "projectPath": "H:\\AngularLearning\\Learning\\Learning.EFCore\\Learning.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Pardaz PC\\.nuget\\packages\\",
+        "outputPath": "H:\\AngularLearning\\Learning\\Learning.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pardaz PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj",
+        "projectName": "Learning.Framework",
+        "projectPath": "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj",
+        "packagesPath": "C:\\Users\\Pardaz PC\\.nuget\\packages\\",
+        "outputPath": "H:\\AngularLearning\\Learning\\Learning.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pardaz PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\AngularLearning\\Learning\\Learning.Infrastructure.Core\\Learning.Infrastructure.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\AngularLearning\\Learning\\Learning.Infrastructure.Core\\Learning.Infrastructure.Core.csproj",
+        "projectName": "Learning.Infrastructure.Core",
+        "projectPath": "H:\\AngularLearning\\Learning\\Learning.Infrastructure.Core\\Learning.Infrastructure.Core.csproj",
+        "packagesPath": "C:\\Users\\Pardaz PC\\.nuget\\packages\\",
+        "outputPath": "H:\\AngularLearning\\Learning\\Learning.Infrastructure.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pardaz PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Application.Contracts\\Learning.Application.Contracts.csproj"
+              },
+              "H:\\AngularLearning\\Learning\\Learning.Application\\Learning.Application.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Application\\Learning.Application.csproj"
+              },
+              "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Domain\\Learning.Domain.csproj"
+              },
+              "H:\\AngularLearning\\Learning\\Learning.EFCore\\Learning.Infrastructure.EFCore.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.EFCore\\Learning.Infrastructure.EFCore.csproj"
+              },
+              "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj": {
+                "projectPath": "H:\\AngularLearning\\Learning\\Learning.Framework\\Learning.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

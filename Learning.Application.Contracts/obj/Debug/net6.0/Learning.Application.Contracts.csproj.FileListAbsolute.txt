@@ -1,0 +1,15 @@
+H:\AngularLearning\Learning\Learning.Application.Contracts\bin\Debug\net6.0\Learning.Application.Contracts.deps.json
+H:\AngularLearning\Learning\Learning.Application.Contracts\bin\Debug\net6.0\Learning.Application.Contracts.dll
+H:\AngularLearning\Learning\Learning.Application.Contracts\bin\Debug\net6.0\Learning.Application.Contracts.pdb
+H:\AngularLearning\Learning\Learning.Application.Contracts\bin\Debug\net6.0\Learning.Framework.dll
+H:\AngularLearning\Learning\Learning.Application.Contracts\bin\Debug\net6.0\Learning.Framework.pdb
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.csproj.AssemblyReference.cache
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.AssemblyInfoInputs.cache
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.AssemblyInfo.cs
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.csproj.CoreCompileInputs.cache
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.csproj.CopyComplete
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.dll
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\refint\Learning.Application.Contracts.dll
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\Learning.Application.Contracts.pdb
+H:\AngularLearning\Learning\Learning.Application.Contracts\obj\Debug\net6.0\ref\Learning.Application.Contracts.dll

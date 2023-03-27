@@ -1,0 +1,12 @@
+H:\AngularLearning\Learning\Learning.Framework\bin\Debug\net6.0\Learning.Framework.deps.json
+H:\AngularLearning\Learning\Learning.Framework\bin\Debug\net6.0\Learning.Framework.dll
+H:\AngularLearning\Learning\Learning.Framework\bin\Debug\net6.0\Learning.Framework.pdb
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\Learning.Framework.csproj.AssemblyReference.cache
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\Learning.Framework.GeneratedMSBuildEditorConfig.editorconfig
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\Learning.Framework.AssemblyInfoInputs.cache
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\Learning.Framework.AssemblyInfo.cs
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\Learning.Framework.csproj.CoreCompileInputs.cache
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\Learning.Framework.dll
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\refint\Learning.Framework.dll
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\Learning.Framework.pdb
+H:\AngularLearning\Learning\Learning.Framework\obj\Debug\net6.0\ref\Learning.Framework.dll
